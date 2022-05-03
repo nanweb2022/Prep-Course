@@ -1,0 +1,17 @@
+   Variable = una cajita que se le asigna un nombre, para posteriormente ser llamada y ver que otras característica tiene dentro, 
+   puede ser var, let, o const. Para ponerle un nombre usamos el signo es igual ( = ) que en este caso sera de asignacion
+   de nombre de variable.
+
+   String = es un texto que esta entre comilla, tambien llamado cadena.
+
+   Funciones = es un objeto invocable, empieza con la palabra clave function y luego el nombre de la función seguido por parentesis ()
+   para ser ejecutada, y a continuación corchetes {} dentro de estos iran los argumentos.
+
+   Argumentos = son datos que pasamos a la funcion para poder hacer algo con ella, podemos usar la variable asignada previamente entre parentesis.
+
+   Return o (retorno) = es la unica forma que tenemos para devolver algo dentro de una función. Tambien podemos establecer variables dentro de la función
+   para igualar lo retornado.
+
+   Declaraciones "if" = es una palabra clave que verifica si es verdadero o falso una linea de codigo, si se ejecuta o no.
+
+   Valores booleanos = tiene dos significados activar o desactivar, verdadero o falso (true y false).
